@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz]("https://www.kodluyoruz.org/") Eğitimi kapsamında açtığım ilk repodur. İçerisinde bir adet *README* dosyası, bir adet de *index.html* barındırıyor.
 
-![createRepo](https://github.com/ezgiozkan/kodluyoruzilkrepo/blob/main/image.png?raw=true)
+![createRepo](https://github.com/ezgiozkan/kodluyoruzilkrepo/blob/main/image.png)
 
 
 ## Installation
